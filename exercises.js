@@ -21,7 +21,7 @@
 
 
 // create a new class called Rectangle
-// cheat sheet: a rectangle's area is equal to the width times the height. a rectangle's area is equal to the sum of all its sides (drawing a picture might help here)
+// cheat sheet: a rectangle's area is equal to the width times the height. a rectangle's perimeter is equal to the sum of all its sides (drawing a picture might help here)
 // Write your Rectangle class here
 
 
